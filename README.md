@@ -10,3 +10,7 @@ Features
 3.Responsive Design: Utilizes flexible layouts and adaptive widgets to provide a consistent experience across various device sizes and orientations.
 
 4.User Input Validation: Ensures that users provide valid inputs for height and weight, enhancing the reliability of BMI calculations.
+
+![image](https://github.com/patilshreya02/BMI_Calculator/assets/143864462/ee2b46e7-b3e5-4cba-9c7f-e1fdbd69a27e)
+![image](https://github.com/patilshreya02/BMI_Calculator/assets/143864462/2cb6d532-18d7-4072-abd3-42ee9b267643)
+
